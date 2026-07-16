@@ -3,7 +3,7 @@
 int main()
 {
     printf("current directory\n");
-    system("pwd");
+    system("pwd")
     printf("\nfiles\n");
     system("ls -1");
     printf("\ncreating directory\n");
